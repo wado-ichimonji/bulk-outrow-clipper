@@ -1,6 +1,8 @@
 # bulk-outrow-clipper
 
-A Shell script to clip ending from all videos in a folder by specified seconds
+A Shell script to clip ending from all videos in a folder by specified seconds.
+
+read more at https://inkcue.com/mass-video-trimming/
 
 instruction:
 
